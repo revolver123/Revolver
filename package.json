@@ -1,0 +1,21 @@
+{
+  "name": "Forge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "discord.js": "^11.4.2",
+    "uws": "^100.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
